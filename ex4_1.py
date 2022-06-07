@@ -2,6 +2,8 @@ from pyspark.python.pyspark.shell import sc
 from pyspark.sql import SQLContext
 from pyspark.sql import Row
 
+# 209163054 - Or Finberg
+
 sqlContext = SQLContext(sc)
 
 ########### A #########
